@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402473833841",
+    "project_id": "live-parlours-d2816",
+    "storage_bucket": "live-parlours-d2816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402473833841:android:16b37de9ea7e81a35a12d0",
+        "android_client_info": {
+          "package_name": "com.rachit.liveparlours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402473833841-n98b3e3fer51bmck0ugo7856o0moq30q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TfMUX1NbfAEQ1dHIOkrbWf15KMUoqCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402473833841-n98b3e3fer51bmck0ugo7856o0moq30q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
