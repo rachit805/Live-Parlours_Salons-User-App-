@@ -10,5 +10,5 @@ FirebaseAuth auth = FirebaseAuth.instance;
 
 // app constants
 const COUNTRY = "country";
-const GOOGLE_MAPS_API_KEY = "AIzaSyB7TfMUX1NbfAEQ1dHIOkrbWf15KMUoqCA";
+const GOOGLE_MAPS_API_KEY = "USE_OWN_KEY";
 GoogleMapsPlaces places = GoogleMapsPlaces(apiKey: GOOGLE_MAPS_API_KEY);
